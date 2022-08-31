@@ -1,0 +1,13 @@
+export const GET_POSTS = 'GET_POSTS';
+export const GET_MORE_POSTS = 'GET_MORE_POST';
+export const UPDATE_POST = 'UPDATE_POST';
+export const DELETE_POST = 'DELETE_POST';
+export const LOADING_POST = 'LOADING_POST';
+export const ERROR_POST = 'ERROR_POST';
+export const ADD_COMMENT_POST = 'ADD_COMMENT_POST';
+export const UPDATE_COMMENT_POST = 'UPDATE_COMMENT_POST';
+export const DELETE_COMMENT_POST = 'DELETE_COMMENT_POST';
+export const UPDATE_LIKE_POST = 'UPDATE_LIKE_POST';
+export const ADD_POST = 'ADD_POST';
+export const LOAD_COMMENT_POST = 'LOAD_COMMENT_POST';
+export const LOADING_FISRT = 'LOADING_FISRT';

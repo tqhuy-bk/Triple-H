@@ -1,0 +1,5 @@
+export const CREATE_NOTIFY = "CREATE_NOTIFY";
+export const GET_NOTIFIES = "GET_NOTIFIES";
+export const UPDATE_NOTIFY = "UPDATE_NOTIFY";
+export const DELETE_NOTIFY = "DELETE_NOTIFY";
+export const MARK_ALL_READ = "MARK_ALL_READ";

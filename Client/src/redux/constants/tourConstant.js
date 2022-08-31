@@ -1,0 +1,15 @@
+export const GET_TOURS = 'GET_TOURS';
+export const GET_TOURS_HOT = 'GET_TOURS_HOT';
+export const GET_MORE_TOUR = 'GET_MORE_TOUR';
+export const ADD_TOUR = 'ADD_TOUR';
+export const UPDATE_TOUR = 'UPDATE_TOUR';
+export const DELETE_TOUR = 'DELETE_TOUR';
+export const LOADING_TOUR = 'LOADING_TOUR';
+export const ERROR_TOUR = 'ERROR_TOUR';
+export const UPDATE_COMMENT_TOUR = 'UPDATE_COMMENT_TOUR';
+export const ADD_COMMENT_TOUR = 'ADD_COMMENT_TOUR';
+export const DELETE_COMMENT_TOUR = 'DELETE_COMMENT_TOUR';
+export const UPDATE_LIKE_TOUR = 'UPDATE_LIKE_TOUR';
+export const UPDATE_JOIN = 'UPDATE_JOIN';
+export const LOAD_COMMENT_TOUR = 'LOAD_COMMENT_TOUR';
+export const LOADING_TOUR_FIRST = 'LOADING_TOUR_FIRST';

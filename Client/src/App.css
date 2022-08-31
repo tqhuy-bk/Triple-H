@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Leckerli+One&display=swap&text=Triple%20H');
+
+body {
+  font-family: 'Roboto';
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+body {
+  margin: 0;
+}
+ul {
+  list-style: none;
+  margin-block-start: 0 !important;
+  margin-block-end: 0;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 0px !important;
+}
+
+.ql-editor {
+  min-height: 100px !important;
+  max-height: 200px !important;
+  background-color: white;
+}
